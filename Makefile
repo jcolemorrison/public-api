@@ -1,4 +1,4 @@
-VERSION=v0.0.4
+VERSION=v0.0.5
 REPOSITORY=jcolemorrison/hashicorp-demo-public-api
 
 .PHONY: auth
